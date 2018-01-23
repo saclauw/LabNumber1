@@ -1,3 +1,6 @@
+#LabNumber1
+
+
 import java.util.Scanner; // imported the scanner to read the user input
 
 public class LabNumber1 {
